@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300..700&display=swap');
+
+
+body{
+     margin: 0;
+     padding: 0;
+     height: 100%;
+     overflow-x: hidden;
+     font-family: "Poppins", sans-serif;
+     background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: radial-gradient(18% 28% at 24% 50%, #120720 7%, #073AFF00 100%),radial-gradient(18% 28% at 18% 71%, #120720 6%, #073AFF00 100%),radial-gradient(70% 53% at 36% 76%, #120720 0%, #073AFF00 100%),radial-gradient(42% 53% at 15% 94%, #120720 7%, #073AFF00 100%),radial-gradient(42% 53% at 34% 72%, #120720 7%, #073AFF00 100%),radial-gradient(18% 28% at 35% 87%, #120720 7%, #073AFF00 100%),radial-gradient(31% 43% at 7% 98%, #120720 24%, #073AFF00 100%),radial-gradient(21% 37% at 72% 23%, #120720 24%, #073AFF00 100%),radial-gradient(35% 56% at 91% 74%, #120720 9%, #073AFF00 100%),radial-gradient(74% 86% at 67% 38%, #120720 24%, #073AFF00 100%),linear-gradient(125deg, #120720 4%, #4C00FCFF 21%);
+background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+     color: #eeeeee;
+     
+
+}
